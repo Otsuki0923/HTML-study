@@ -1,0 +1,19 @@
+body {
+  color: #0a0a0a;
+  font-size: 16px;
+}
+h1 {
+  color: white;
+  background-color: #0080ff;
+  padding: 16px;
+}
+p {
+  color: #50e73c;
+  font-size: 16px;
+}
+.card {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
